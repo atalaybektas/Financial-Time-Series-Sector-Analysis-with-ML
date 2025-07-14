@@ -32,7 +32,7 @@ Zaman serisi verileri üzerinde TSFresh kütüphanesi ile kapsamlı öznitelik �
 **Öznitelik Çıkarımı:**  
 - TSFresh kütüphanesi ile zaman serisi verilerinden öznitelik çıkarımı ve öznitelik seçimi yapıldı.
 
-  ***Finansal Faktör Analizi***
+***Finansal Faktör Analizi***
 - Momentum  ,Volatilite, MACD (Moving Average Convergence Divergence)  ,Hareketli Ortalamalar (Moving Averages)  
 
 **Modelleme ve Benzerlik Analizi:**  
