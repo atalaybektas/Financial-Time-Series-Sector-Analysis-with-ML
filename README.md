@@ -44,8 +44,8 @@ Zaman serisi verileri üzerinde TSFresh kütüphanesi ile kapsamlı öznitelik �
 - Bu çalışma kapsamında, farklı sektörlere ait hisse senetlerinin belirli zaman aralıklarındaki fiyat değişimleri analiz edilerek, sektörler arası davranış benzerliklerinin tespit edilmesi amaçlanmıştır. Yapılan analizler sonucunda, sektörlerin dönemsel getiri eğilimlerinin belirli koşullar altında birbirine yakınlık gösterdiği gözlemlenmiştir. Ekonomik dalgalanmaların veya makroekonomik olayların etkili olduğu dönemlerde, bazı sektörlerin senkronize şekilde hareket ettiği söz konusudur 
 - Uygulanan zaman serisi analizleri ve öznitelik çıkarımı yöntemleriyle, hisseler ve başka sektörler arası korelasyon düzeyleri hesaplanmış; davranışsal olarak birbirine en yakın çiftleri başarılı bir şekilde belirlenmiştir..  
 - Bu bulgular, yatırım portföyü oluşturulması ve risk dağılımı açısından yol gösterici niteliktedir.  
-- Özellikle tedarik zinciri yönetimi bağlamında, sektörler arası davranışsal benzerliklerin bilinmesi, paydaşların ve iş ortaklarının daha bilinçli şekilde seçilmesine olanak tanımaktadır. Finansal dalgalanmalara benzer tepki veren sektörlerde faaliyet gösteren tedarikçilerin veya müşterilerin birlikte değerlendirilmesi, operasyonel dayanıklılığı artırabilir ve bütünleşik risk yönetimini kolaylaştırabilir.
-- Geliştirilen benzerlik analizi mekanizması, piyasa senkronizasyonlarını erken fark etmeye yardımcı olabilir.
+- Özellikle tedarik zinciri yönetimi bağlamında, sektörler arası davranışsal benzerliklerin bilinmesi, paydaşların ve iş ortaklarının daha bilinçli şekilde seçilmesine olanak tanımaktadır. Finansal dalgalanmalara benzer tepki veren hisselere göre tedarikçilerin veya müşterilerin birlikte değerlendirilmesi, operasyonel dayanıklılığı artırabilir ve bütünleşik risk yönetimini kolaylaştırabilir.
+- Geliştirilen benzerlik analizi mekanizması, örtülü piyasa senkronizasyonlarını erken fark etmeye yardımcı olabilir.
 ---
 
 
